@@ -422,5 +422,5 @@ with tab4:
 
 
 # Footer
-st.markdown("---")
+st.markdown("----")
 st.caption("Developed with Mini-Pandas Core | 2025")
